@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, C++, CSS
 - 🌱 I’m currently learning Software Engineering course
 - 💞️ I'm interested in developing android application by using Android Studio.
-- 📫 My expertise area is UI/UX experience. I have basic knowledge in designing mobile front-end.
+- 📫 My expertise area is UI/UX experience. I have basic knowledge in designing mobile and web front-end.
 
 
 <!---
