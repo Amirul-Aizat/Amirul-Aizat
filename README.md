@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amirul-Aizat
-- 👀 I’m interested in Java, C++, CSS
-- 🌱 I’m currently learning Software Engineering course
-- 💞️ I'm interested in developing android application by using Android Studio.
+- 👀 I'm familiar with Java, C++, CSS, HTML, Javascript, PHP and Python.
+- 🌱 I’m currently learning Software Engineering course and my current CGPA is 3.57
+- 💞️ I'm interested in developing mobile application.
 - 📫 My expertise area is UI/UX experience. I have basic knowledge in designing mobile and web front-end.
 
 
