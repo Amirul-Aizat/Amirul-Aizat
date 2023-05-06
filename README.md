@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Amirul-Aizat
 - 👀 I'm familiar with Java, C++, CSS, HTML, Javascript, PHP and Python.
-- 🌱 I’m currently learning Software Engineering course and my current CGPA is 3.57
-- 💞️ I'm interested in developing mobile application.
-- 📫 My expertise area is UI/UX design. I have basic knowledge in designing mobile and web front-end.
+- 🌱 I’m just recently finished my study in Software Engineering course with final cgpa 3.65.
+- 💞️ I'm interested in developing mobile application and also Java application.
+- 📫 Having strong basic Java language.
 
 
 <!---
